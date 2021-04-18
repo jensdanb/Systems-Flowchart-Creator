@@ -102,17 +102,8 @@ class Sink(Node):
         plt.show()
 
 
-
-
-
 """
 # Tidligere forsøk starter her
-class Source(type):
-    # Basic properties: Generates a signal. Has one output.
-    # Comes in various types: [constant, sine, pwm, step, ramp]
-
-    output_vector =
-
 
 def source(signal_class, amplitude, frequency):
     output = True
