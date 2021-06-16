@@ -18,5 +18,5 @@ Future plans after making the basics work with a GUI:
   - Retain ability to 'manually' run the system, and compare results between the two methods. 
 - As alternative to PDE matrix, generate the equivalent Transfer Function (Laplace domain). 
   - For many systems, gives even more accurate and performant result than the PDE matrix, especially for longer timescales. 
-  - Compare output (with and without conversion back to time domain) with bucket-passing and PDE matrix result. 
+  - Compare output with bucket-passing and PDE matrix outputs. Can also view output in Laplace domain. 
 - Functions to give the user automatically generated system properties, such as the mentioned PDE matrix, Transfer Function, but also Impulse Response, stability domains...
